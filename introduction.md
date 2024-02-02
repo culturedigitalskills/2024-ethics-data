@@ -40,14 +40,6 @@ Write down some of the main considerations that arise from your project on this 
 https://universityofbrighton.padlet.org/msamaroudi3/ethical-considerations-of-your-project-u7muslx9ke6ucayq   
 ::::::::::::::: 
  
-::::::::::::::: keypoints
-
-- The rapid evolution of digital data collection, especially 3D data, for material culture documentation, preservation, and study has become integral across various domains like archaeology, history, and art. 
-
-- Despite technological advancements and increased data democratization, ethical considerations arise due to the abundance of big data and the lack of standardization. This is amplified by the potential distribution, customization, and reuse of data, including physical replication through technologies like 3D printing. 
-
-- Ethical concerns encompass obtaining approval for digitization, choosing appropriate methods, addressing data quantity and storage, ensuring longevity, determining access, and considering envisioned secondary uses within the cultural heritage digital data domain.
-::::::::::::::: 
 
 
 
