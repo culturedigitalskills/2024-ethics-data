@@ -8,7 +8,9 @@ Data ethics refers to the moral principles and guidelines that guide the collect
 
 
 ![Ethics, moral, values word tag cloud. 3D rendering, blue variant. &copy; by ommbeu under Education License from Adobe Stock ](fig/AdobeStock_158710937.jpeg)
+
 ### Privacy and Consent
+
 
 ``
 Ensuring that individuals associated with cultural heritage data are informed about how their data will be used and obtaining their consent for its collection and usage.
@@ -23,7 +25,7 @@ In the domain of cultural heritage data, privacy and consent are crucial conside
  
 
 ``
-**Respecting the cultural significance of the data and avoiding any actions that may offend or disrespect cultural values or beliefs.**
+Respecting the cultural significance of the data and avoiding any actions that may offend or disrespect cultural values or beliefs.
 ``
  
 
@@ -36,7 +38,7 @@ Cultural sensitivity is paramount when dealing with cultural heritage data to av
  
 
 ``
-**Clarifying the ownership and rights associated with cultural heritage data, including issues related to intellectual property and copyright. **
+Clarifying the ownership and rights associated with cultural heritage data, including issues related to intellectual property and copyright.
 ``
  
 
@@ -49,7 +51,7 @@ Clarifying ownership and rights associated with cultural heritage data is essent
  
 
 ``
-**Implementing measures to protect cultural heritage data from unauthorised access, data breaches, or misuse, safeguarding its integrity and confidentiality. **
+Implementing measures to protect cultural heritage data from unauthorised access, data breaches, or misuse, safeguarding its integrity and confidentiality. 
 ``
  
 
@@ -62,7 +64,7 @@ Ensuring data security is paramount to protect cultural heritage data from unaut
  
 
 ``
-**Being transparent about the sources of cultural heritage data, the methods used for its collection and analysis, and being accountable for any decisions or actions taken based on the data. **
+Being transparent about the sources of cultural heritage data, the methods used for its collection and analysis, and being accountable for any decisions or actions taken based on the data. 
 ``
  
 Transparency and standardisation are fundamental principles in the ethical treatment of cultural heritage data. Researchers should be transparent about the sources of data, the methods used for its collection and analysis, and any decisions or actions taken based on the data. This transparency fosters accountability and trust among stakeholders, ensuring that digitisation efforts are conducted ethically and responsibly. Additionally, standardising digitisation and data management practices enables consistency, reproducibility, and comparability across studies, facilitating collaboration and data sharing within the research community. Standardisation in the 3D data heritage domain is still a challenging topic and the digital humanities community is undertaking efforts towards this domain.  
@@ -76,7 +78,7 @@ Yet, there is still a need to reach a consensus, and such efforts should be supp
  
 
 ``
-**Ethical behaviour requires assessing and minimising errors in digital data, including those introduced during digitisation and reconstruction processes, to ensure the reliability of results. **
+Ethical behaviour requires assessing and minimising errors in digital data, including those introduced during digitisation and reconstruction processes, to ensure the reliability of results. 
 ``
  
 
@@ -117,7 +119,7 @@ Reliability also includes assessing the methods used for data collection and ana
  
 
 ``
-**Ensuring equitable access to cultural heritage data for all stakeholders, including marginalised or underrepresented communities, and addressing any barriers to access.**
+Ensuring equitable access to cultural heritage data for all stakeholders, including marginalised or underrepresented communities, and addressing any barriers to access.
 ``
  
 
@@ -130,7 +132,7 @@ Promoting equity and accessibility is crucial to ensure that cultural heritage d
  
 
 ``
-**Taking measures to preserve cultural heritage data for future generations, including considerations for long-term storage, maintenance, and accessibility. **
+Taking measures to preserve cultural heritage data for future generations, including considerations for long-term storage, maintenance, and accessibility. 
 ``
  
 
@@ -159,7 +161,7 @@ Further information about the preservation of Digital Heritage can be found in U
  
 
 ``
-**Being aware of and mitigating any biases or prejudices present in cultural heritage data or data analysis processes to prevent discrimination or unfair treatment. **
+Being aware of and mitigating any biases or prejudices present in cultural heritage data or data analysis processes to prevent discrimination or unfair treatment. 
 ``
  
 
