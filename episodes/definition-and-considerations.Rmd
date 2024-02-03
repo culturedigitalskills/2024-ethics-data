@@ -9,7 +9,7 @@ Data ethics refers to the moral principles and guidelines that guide the collect
 
 ![Ethics, moral, values word tag cloud. 3D rendering, blue variant. &copy; by ommbeu under Education License from Adobe Stock ](fig/AdobeStock_158710937.jpeg)
 
-### Privacy and Consent
+## Privacy and Consent
 
 
 ``
@@ -20,7 +20,7 @@ In the domain of cultural heritage data, privacy and consent are crucial conside
 
  
 
-### Cultural Sensitivity 
+## Cultural Sensitivity 
 
  
 
@@ -33,7 +33,7 @@ Cultural sensitivity is paramount when dealing with cultural heritage data to av
 
  
 
-### Ownership and Intellectual Property
+## Ownership and Intellectual Property
 
  
 
@@ -46,7 +46,7 @@ Clarifying ownership and rights associated with cultural heritage data is essent
 
  
 
-### Data Security 
+## Data Security 
 
  
 
@@ -59,7 +59,7 @@ Ensuring data security is paramount to protect cultural heritage data from unaut
 
  
 
-### Transparency and Standardisation 
+## Transparency and Standardisation 
 
  
 
@@ -73,7 +73,7 @@ Yet, there is still a need to reach a consensus, and such efforts should be supp
 
  
 
-### Reliability 
+## Reliability 
 
  
 
@@ -114,7 +114,7 @@ Reliability also includes assessing the methods used for data collection and ana
 
  
 
-### Equity and Accessibility  
+## Equity and Accessibility  
 
  
 
@@ -127,7 +127,7 @@ Promoting equity and accessibility is crucial to ensure that cultural heritage d
 
  
 
-### Data Preservation 
+## Data Preservation 
 
  
 
@@ -156,7 +156,7 @@ Further information about the preservation of Digital Heritage can be found in U
 
  
 
-### Avoiding Bias and Discrimination  
+## Avoiding Bias and Discrimination  
 
  
 
@@ -176,13 +176,13 @@ Europeana provides access to millions of assets from heritage institutions acros
 
 Examine carefully all the information provided about the object in Europeana (or the providing institution). Can you think about any ethical considerations which might arise by the way that such information has been handled, presented or interpreted? _(5 min)_ 
 
-Team with a colleague and discuss your comments. Are there any differences or similarities between your findings? _(5 min)_
+Team up with a colleague and discuss your comments. Are there any differences or similarities between your findings? _(5 min)_
 
 One person from each team shares with the rest of the group their remarks about ethical considerations in data. _(1-2 min each team)_
 
 ::::::::::
 
-### Data Protection Act and GDPR  
+## Data Protection Act and GDPR  
 
  
 
