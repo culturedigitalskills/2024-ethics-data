@@ -1,8 +1,13 @@
 ---
 title: 'Definition and Considerations'
-teaching: 10
-exercises: 2
+teaching: 20
+exercises: 0
 ---
+
+:::::: questions
+- In this section the main considerations which guide the ethical collection, storage, use, and sharing of data are defined.
+
+:::::: 
 
 Data ethics refers to the moral principles and guidelines that guide the collection, storage, use, and sharing of data. Data ethics aim to ensure that data-related practices and technologies are used in a responsible and ethical manner, taking into account the potential impact on individuals, society, and the environment. It involves making ethical decisions about how data is collected, processed, and used, as well as addressing issues of bias, discrimination, and inequality that may arise in data-driven activities. All these are incorporated in the main digital data ethical considerations, as described below. 
 
@@ -53,7 +58,7 @@ Clarifying ownership and rights associated with cultural heritage data is essent
 ``
 Implementing measures to protect cultural heritage data from unauthorised access, data breaches, or misuse, safeguarding its integrity and confidentiality. 
 ``
- 
+![Internet security and data protection concept. Hands on laptop scene &copy; by BillionPhotos.com under Education License from Adobe Stock](fig/AdobeStock_487161139.jpeg){alt="security laptop"}
 
 Ensuring data security is paramount to protect cultural heritage data from unauthorised access, data breaches, or misuse. Researchers and institutions should implement robust security measures to safeguard the integrity and confidentiality of digitised data throughout its lifecycle. This includes encryption protocols, access controls, and regular audits to detect and mitigate potential security threats. Additionally, data storage systems should adhere to industry best practices for information security, complying with relevant regulations and standards to minimise risks to cultural heritage data. 
 
