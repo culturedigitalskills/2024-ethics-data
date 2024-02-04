@@ -11,7 +11,9 @@ exercises: 0
 :::::: 
 
 The previous sections discussed the definition of ethics and presented the main considerations that researchers and practitioners should have in mind when dealing with digital data in the heritage domain. All the considerations mentioned about ethics should be taken into account throughout the digital data lifecycle. 
-![The data lifecycle &copy; by the 3D Service Suite, University of Brighton under CC BY 4.0](fig/ColorfulProcessPieChart.png)
+
+
+![The data lifecycle &copy; by the 3D Service Suite, University of Brighton under CC BY 4.0](fig/ColorfulProcessPieChart.png){alt="cycle"}
 
 For instance, when **planning data collection**, considerations such as **ownership of data** and **cultural sensitivities** must be addressed. Who are the owners or creators of the objects and practices we want to digitise and collect data about? Should we consider cultural sensitivities and potential issues that may arise from collecting such data? Are there biases involved in selecting these objects and associated data? Are our data sufficiently representative? 
 
