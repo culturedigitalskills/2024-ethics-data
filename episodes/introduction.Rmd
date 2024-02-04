@@ -1,12 +1,17 @@
 ---
 title: 'Context'
 teaching: 10
-exercises: 2
+exercises: 0
 ---
+
+:::::: questions
+- This section provides contextual information about the involvement of ethics in Cultural Heritage processes.
+
+::::::::::
 
 Collecting digital data, including 3D data, for the documentation, preservation, study and dissemination of material culture knowledge has been rapidly evolving in the last decades. Such data provide valuable insights about the objects’ biographies and the development of humans within different societal contexts.  
 
-![Peruvian mummified male, c.1200-1400 &copy; Wellcome Collection, United Kingdom - CC BY. https://www.europeana.eu/item/9200579/rfu3dzqc](fig/Europeana.eu-9200579-rfu3dzqc-fd3745ea8291fc85cf2df028dc8e0c9d.jpeg)
+![Manhattan, NY - November 4, 2022: 11th century Indian Celestial Dancer Apsara sandstone statue on display in the Metropolitan Museum of Art linked to Subhash Kapoor illegal black market smuggling &copy; by John Hanson Pye under Education License from Adobe Stock](fig/AdobeStock_624216204_Editorial_Use_Only.jpeg)
 
 With the democratisation of technologies and hence the facilitation of access to equipment, software and sharing of digital data information, digital practices have become established in several domains which aim to investigate human presence and activity, including archaeology, history, ethnography, art and museum studies. 
 
