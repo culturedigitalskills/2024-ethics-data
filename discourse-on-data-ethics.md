@@ -134,7 +134,7 @@ To leverage participatory approaches when working with data in collaboration wit
 
 ## Challenge: Case study reflection
 
-Look at the cases below and think whether they involve digital data ethical considerations. Then try to write down some responses to the questions below. 
+Look at the cases below and think about whether they involve digital data ethical considerations. Then try to write down some responses to the questions below. 
 
 
 Nefertiti hack: [resource 1](https://arstechnica.com/tech-policy/2016/03/one-of-the-greatest-art-heists-of-our-time-was-actually-a-data-hack/) and [resource 2](https://reason.com/2019/11/13/a-german-museum-tried-to-hide-this-stunning-3d-scan-of-an-iconic-egyptian-artifact-today-you-can-see-it-for-the-first-time/) 

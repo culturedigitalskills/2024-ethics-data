@@ -86,6 +86,7 @@ The CARE principles for Indigenous Data Governance enhance the FAIR principles b
 The CARE Principles for Indigenous Data Governance outline key considerations for the ethical and responsible use of Indigenous data. These are presented below (Research Data Alliance International Indigenous Data Sovereignty Interest Group, 2019). 
 
 ![The CARE Principles for Indigenous Data Governance &copy; by 2020 Russo Carroll et al. under CC BY 4.0 from Wikimedia  ](fig/CARE-1.png)
+
 ### Collective benefit 
 
  

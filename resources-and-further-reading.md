@@ -43,7 +43,7 @@ exercises: 0
 
 - GOV.UK. (2019). Human Tissue Act 2004. Legislation.gov.uk. Retrieved from: https://www.legislation.gov.uk/ukpga/2004/30/contents 
 
-- HAD 2021, https://www.honour.org.uk/wp-content/uploads/2021/03/HAD-Definitions-2020-v3.pdf https://www.honour.org.uk/wp-content/uploads/2021/03/HAD-Definitions-2020-v3.pdf
+- HAD (2021), Definitions for Honouring the Ancient Dead (HAD). Retrieved from: https://www.honour.org.uk/wp-content/uploads/2021/03/HAD-Definitions-2020-v3.pdf
 
 - ICOM. (2016). Museums, Ethics and Cultural Heritage. Routledge.
 

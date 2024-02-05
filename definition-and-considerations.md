@@ -179,11 +179,11 @@ Researchers should be vigilant in avoiding bias and discrimination in cultural h
 
 Europeana provides access to millions of assets from heritage institutions across Europe. Go to the website of Europeana [https://www.europeana.eu/en](https://www.europeana.eu/en), look for assets which are related to your research and find an interesting object. 
 
-Examine carefully all the information provided about the object in Europeana (or the providing institution). Can you think about any ethical considerations which might arise by the way that such information has been handled, presented or interpreted? _(5 min)_ 
+Examine carefully all the information provided about the object in Europeana (or the providing institution). Can you think about any ethical considerations which might arise by the way that such information has been handled, presented or interpreted? 
 
-Team up with a colleague and discuss your comments. Are there any differences or similarities between your findings? _(5 min)_
+Team up with a colleague and discuss your comments. Are there any differences or similarities between your findings? 
 
-One person from each team shares with the rest of the group their remarks about ethical considerations in data. _(1-2 min each team)_
+One person from each team shares with the rest of the group their remarks about ethical considerations in data. 
 
 ::::::::::
 
