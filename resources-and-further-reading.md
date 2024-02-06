@@ -78,3 +78,6 @@ exercises: 0
 - UNESCO (2009). Charter on the Preservation of the Digital Heritage. Retrieved from: https://unesdoc.unesco.org/ark:/48223/pf0000179529
 
 - UN General Assembly, United Nations Declaration on the Rights of Indigenous Peoples: resolution / adopted by the General Assembly, 2 October 2007, A/RES/61/295, available at: https://www.refworld.org/docid/471355a82.html 
+
+- Halpering J.R. (2019). Is it possible to decolonize the Commons? An interview with Jane Anderson of Local Contexts. Retrieved from: https://creativecommons.org/2019/01/30/jane-anderson/
+
