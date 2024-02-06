@@ -136,3 +136,18 @@ Indigenous Peoples' rights and well-being should be the main concern at all stag
 - **For minimising harm and maximising benefit**: Ethical data avoid stigmatising Indigenous people or their cultures and are collected in line with Indigenous ethical standards and [UNDRIP rights](https://www.un.org/development/desa/indigenouspeoples/wp-content/uploads/sites/19/2018/11/UNDRIP_E_web.pdf). Assessing ethical benefits and harms should adopt the perspectives of Indigenous communities. 
 - **For justice**: Ethical practices address unfair power and resource distributions that affect Indigenous and human rights, and they should include input from relevant Indigenous communities. 
 - **For future use**: Data governance should consider future uses and potential harms based on ethical frameworks aligned with Indigenous values. Metadata should indicate origin, purpose, and any restrictions, including consent issues, for secondary use. 
+
+
+### Local Contexts
+ 
+[Local Contexts](https://localcontexts.org/licenses/traditional-knowledge-licenses/) was inspired by Creative Commons, with the objective to create a fresh and supplementary suite of licenses tailored to accommodate the varied intellectual property requirements of Indigenous peoples.
+
+
+The Local Contexts include two sets of labels to license Indigenous communities knowledge:
+ 
+The **Traditional Knowledge (TK) Labels** represent an effort tailored to Indigenous communities. Through extensive collaboration and validation within Indigenous communities spanning various nations, these Labels empower communities to articulate their unique terms for participation in future research and partnerships, aligning with established community norms, governance structures, and protocols governing the use, sharing, and dissemination of knowledge and data. These Labels facilitate the incorporation of local access and usage protocols for cultural heritage that is digitally disseminated beyond the confines of the community.
+ 
+The **Biocultural (BC) Labels** establish the standards for how biocultural collections and data should be ethically utilised according to community expectations. They emphasise the importance of precise origin information, openness, and ethical conduct in research collaborations with Indigenous communities.
+ 
+An effort to accommodate assets within the above context is the [Mukurtu Content Management System](https://mukurtu.org/).
+
