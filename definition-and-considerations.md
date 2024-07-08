@@ -58,7 +58,7 @@ Clarifying ownership and rights associated with cultural heritage data is essent
 ``
 Implementing measures to protect cultural heritage data from unauthorised access, data breaches, or misuse, safeguarding its integrity and confidentiality. 
 ``
-![Internet security and data protection concept. Hands on laptop scene &copy; by BillionPhotos.com under Education License from Adobe Stock](fig/AdobeStock_487161139.jpeg){alt="security laptop"}
+![Internet security and data protection concept. Hands on laptop scene &copy; by BillionPhotos.com under Education License from Adobe Stock](fig/AdobeStock_487161139.jpeg)
 
 Ensuring data security is paramount to protect cultural heritage data from unauthorised access, data breaches, or misuse. Researchers and institutions should implement robust security measures to safeguard the integrity and confidentiality of digitised data throughout its lifecycle. This includes encryption protocols, access controls, and regular audits to detect and mitigate potential security threats. Additionally, data storage systems should adhere to industry best practices for information security, complying with relevant regulations and standards to minimise risks to cultural heritage data. 
 
@@ -128,7 +128,7 @@ Ensuring equitable access to cultural heritage data for all stakeholders, includ
 ``
  
 
-Promoting equity and accessibility is crucial to ensure that cultural heritage data is accessible to all stakeholders, including marginalised or underrepresented communities. Researchers should actively address barriers to access, such as language barriers, technological limitations, or lack of resources, to ensure that diverse interpretations and voices are represented in digitisation and data sharing efforts. Participatory approaches can assist towards this direction. Within this frame, researchers should prioritise inclusivity in data dissemination and sharing practices, making digitised data available in accessible formats and platforms to maximize its utility and impact across diverse audiences. 
+Promoting equity and accessibility is crucial to ensure that cultural heritage data is accessible to all stakeholders, including marginalised or underrepresented communities. Researchers should actively address barriers to access, such as language barriers, technological limitations, or lack of resources, to ensure that diverse interpretations and voices are represented in digitisation and data sharing efforts. Participatory approaches can assist towards this direction. Within this frame, researchers should prioritise inclusivity in data dissemination and sharing practices, making digitised data available in accessible formats and platforms to maximise its utility and impact across diverse audiences. 
 
  
 
