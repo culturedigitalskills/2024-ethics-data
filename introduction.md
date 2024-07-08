@@ -40,7 +40,9 @@ As such, ethics become involved in many aspects of the cultural heritage digital
 
 Take some time to think about the questions above and how these reflect to your own research project. 
 
-Write down some of the main considerations that arise from your project and share with your colleagues.
+Write down some of the main considerations that arise from your project on this padlet:  
+
+https://universityofbrighton.padlet.org/msamaroudi3/ethical-considerations-of-your-project-u7muslx9ke6ucayq   
 ::::::::::::::: 
  
 
