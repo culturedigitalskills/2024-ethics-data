@@ -58,11 +58,10 @@ Clarifying ownership and rights associated with cultural heritage data is essent
 ``
 Implementing measures to protect cultural heritage data from unauthorised access, data breaches, or misuse, safeguarding its integrity and confidentiality. 
 ``
-![Internet security and data protection concept. Hands on laptop scene &copy; by BillionPhotos.com under Education License from Adobe Stock](fig/AdobeStock_487161139.jpeg){alt="security laptop"}
 
 Ensuring data security is paramount to protect cultural heritage data from unauthorised access, data breaches, or misuse. Researchers and institutions should implement robust security measures to safeguard the integrity and confidentiality of digitised data throughout its lifecycle. This includes encryption protocols, access controls, and regular audits to detect and mitigate potential security threats. Additionally, data storage systems should adhere to industry best practices for information security, complying with relevant regulations and standards to minimise risks to cultural heritage data. 
 
- 
+![Internet security and data protection concept. Hands on laptop scene &copy; by BillionPhotos.com under Education License from Adobe Stock](fig/AdobeStock_487161139.jpeg)
 
 ## Transparency and Standardisation 
 
