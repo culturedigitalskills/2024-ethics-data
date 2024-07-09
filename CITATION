@@ -1,12 +1,14 @@
 To reference information about this module, please cite:
 
 Myrsini Samaroudi: "Data Ethics in Cultural Heritage". 
-2024.
+2024. https://doi.org/10.5281/zenodo.12698543
 
 @online{samaroudi-exhibition-design-23,
   author      = {Myrsini Samaroudi},
   title       = {Data Ethics in Cultural Heritage},
   year        = {2024},
+url = {https://doi.org/10.5281/zenodo.12698543},
+doi = {10.5281/zenodo.12698543},
 }
 
 Title: Data Ethics in Cultural Heritage
