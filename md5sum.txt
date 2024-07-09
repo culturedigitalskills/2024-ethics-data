@@ -11,6 +11,6 @@
 "episodes/resources-and-further-reading.Rmd" "5285a9eda267e047cf20ceffe2738ca3" "site/built/resources-and-further-reading.md" "2024-07-09"
 "instructors/instructor-notes.md" "753a818d77ba4dfce1249b07de672da7" "site/built/instructor-notes.md" "2024-07-09"
 "learners/reference.md" "527a12e217602daae51c5fd9ef8958df" "site/built/reference.md" "2024-07-09"
-"learners/setup.md" "37271e7357b558a02c66cbfd6ff6f01e" "site/built/setup.md" "2024-07-09"
+"learners/setup.md" "28e0abb294c685365634268e5741764e" "site/built/setup.md" "2024-07-09"
 "profiles/learner-profiles.md" "5fe5bf7537072422b91ed393ada03f9a" "site/built/learner-profiles.md" "2024-07-09"
 "renv/profiles/lesson-requirements/renv.lock" "7d711c526ece4f7c663cc4db717aab60" "site/built/renv.lock" "2024-07-09"
